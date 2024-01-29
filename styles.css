@@ -1,0 +1,25 @@
+body{
+margin: 0;
+padding: 0;
+}
+.wave{
+    border: 2px solid black;
+    width: 350px;
+    height: 370px;
+    margin-left: 80px;
+    text-align: center;
+}
+.wrapper{
+    text-decoration: none;
+    background-color: yellow;
+    color: black;
+    padding: 15px 20px;
+}
+.tutor{
+    background-color: burlywood;
+    padding: 5px 0;
+}
+.favor{
+    display: flex;
+    margin-top: 50px;
+}
